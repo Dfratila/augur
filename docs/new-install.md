@@ -1,6 +1,9 @@
 ## Augur Setup
 
 ## General Pre-Requisites
+### Spec Requirements
+64-Bit System (TensorFlow requires) -- Chromebook based Debian environments will have issues.
+60MB-- Storage Space
 ### Frontend (Optional)
 1. Install NodeJS (Optional if only running the backend) `sudo apt update` and `sudo apt install nodejs`
 2. Install NPM (Optional if only running the backend) `sudo apt install npm` 
