@@ -1,6 +1,11 @@
 ## Augur Setup
 
 ## General Pre-Requisites
+
+### Spec Requirements
+64-Bit System (TensorFlow requires) -- Chromebook based Debian environments will have issues.
+60MB-- Storage Space
+
 ### Fork and Clone Augur
 1. Fork https://github.com/chaoss/augur 
 2. Clone your fork. We recommend creating a `github` directory in your user's base directory. 
